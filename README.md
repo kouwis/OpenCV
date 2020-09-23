@@ -1,2 +1,2 @@
 # OpenCV
-Using OpenCV and Numpy
+Using OpenCV and Numpy (latest version)
